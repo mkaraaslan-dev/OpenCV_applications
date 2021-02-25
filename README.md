@@ -1,5 +1,4 @@
-Uygulama açıklamaları içerlerinde word olarak bulunmaktadır
-
+Uygulama kaynakları ve açıklamaları .DOCX olarak her uygulamanın içerisinde mevcuttur
 1)Optic_Akis_İle_Nesne_Takibi örnek video youtube linki:
 https://youtu.be/Hwocr99OzEw
 https://youtu.be/icW_bUpOvT0
