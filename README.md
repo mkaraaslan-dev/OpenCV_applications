@@ -24,11 +24,13 @@ https://youtu.be/xDpwH7EgXHY
 
 6)Stitching_Panorama  örnek video youtube linki:
 
+https://youtu.be/0YPDt_e6zwE
 7)arac_takip örnek video yotube linki:
 
 https://youtu.be/uRUXhucVzwU
 
 8)Yolo ile nesne tespiti ve sınıflandırması örnek video youtube linki:
+
 https://youtu.be/mAvjTl1TSTQ
 
 
