@@ -1,0 +1,1 @@
+Uygulama açıklamaları içerlerinde word olarak bulunmaktadır
