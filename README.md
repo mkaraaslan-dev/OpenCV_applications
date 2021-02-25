@@ -22,6 +22,6 @@ https://youtu.be/xDpwH7EgXHY
 https://youtu.be/uRUXhucVzwU
 
 8)Yolo ile nesne tespiti ve sınıflandırması örnek video youtube linki:
-
+https://youtu.be/mAvjTl1TSTQ
 
 
