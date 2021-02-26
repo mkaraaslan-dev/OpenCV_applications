@@ -3,7 +3,7 @@ Application resources and descriptions are available within each application as 
 
 1)Optic_Akis_İle_Nesne_Takibi sample video youtube link:
 
-This application will be used in TEKNOFEST. That's why the source code has been shared
+This application will be used in TEKNOFEST. That's why the source code is not shared
 
 https://youtu.be/Hwocr99OzEw
 
