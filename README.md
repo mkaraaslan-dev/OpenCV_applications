@@ -1,7 +1,9 @@
 Application resources and descriptions are available within each application as .DOCX.
 
-This application will be used in TEKNOFEST. That's why the source code has been shared
+
 1)Optic_Akis_İle_Nesne_Takibi sample video youtube link:
+
+This application will be used in TEKNOFEST. That's why the source code has been shared
 
 https://youtu.be/Hwocr99OzEw
 
