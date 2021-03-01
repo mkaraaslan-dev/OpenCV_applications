@@ -37,4 +37,7 @@ https://youtu.be/uRUXhucVzwU
 
 https://youtu.be/mAvjTl1TSTQ
 
+9)rain detector with raspberry pi
+
+https://youtu.be/Epwc8nncybQ
 
