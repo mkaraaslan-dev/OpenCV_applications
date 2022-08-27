@@ -5,7 +5,6 @@ Some application will be used in TEKNOFEST. That's why the source code is not sh
 1)Optic_Akis_İle_Nesne_Takibi sample video youtube link:
 
 
-
 https://youtu.be/Hwocr99OzEw
 
 https://youtu.be/icW_bUpOvT0
